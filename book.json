@@ -1,0 +1,7 @@
+{
+    "title": "Linux 使用手册",
+    "description": "用 GitBook 制作的 Linux 手册！",
+    "author": "Sinhub",
+    "language": "zh-hans",
+    "plugins": ["toggle-chapters"]
+}
