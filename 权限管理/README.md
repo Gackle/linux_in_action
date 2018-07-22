@@ -8,7 +8,7 @@
 
 为了解决这个问题，Linux 系统采用了另外一个安全概念 —— **组**（group）。 组权限允许多个用户对系统中的对象（比如文件、目录或设备等）共享一组共用的权限。
 
-## /etc/passwd 文件
+## /etc/passwd 文件和 /etc/shadow 文件
 
 
-## /etc/group 文件
+## /etc/group 文件和 /etc/gshadow 文件

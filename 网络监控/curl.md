@@ -102,7 +102,7 @@ $ curl [options]... <url>
 
         $ curl -D /tmp/header http://www.aiezu.com # 将 http header 保存到 /tmp/header 文件
         ```
-- 4. 上传文件
+4. 上传文件
     - 同时上传多个文件到 FTP 服务器
         ``` shell
         $ curl -u ftpuser:ftppass -T "{file1, file2}" ftp：//ftp.testserver.com
@@ -115,7 +115,7 @@ $ curl [options]... <url>
         ```shell
         $ curl --form "fileupload=@filename.txt" http://hostname/resource
         ```
-- 5. 其他设置
+5. 其他设置
     - 为 `curl` 设置代理
         ``` shell
         $ curl -x proxyserver.test.com:3128 http://google.com
