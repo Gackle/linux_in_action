@@ -1,5 +1,5 @@
 ---
-description: route 命令 —— 
+description: route 命令 —— 查看路由表信息
 ---
 
 # route 命令
