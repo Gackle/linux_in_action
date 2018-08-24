@@ -39,6 +39,7 @@
     * [comm 命令](文本操作/comm.md)
     * [join 命令](文本操作/join.md)
     * [tr 命令](文本操作/tr.md)
+    * [wc 命令](文本操作/wc.md)
     * [uniq 命令](文本操作/uniq.md)
     * [grep 命令](文本操作/grep.md)
     * [stat 命令](文本操作/stat.md)
