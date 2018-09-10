@@ -2,6 +2,7 @@
 
 * [介绍](README.md)
 * [基本操作](基本操作/README.md)
+    * [内核与系统信息](基本操作/uname.md)
     * [SSH 登陆](基本操作/ssh.md)
     * [tar 命令](基本操作/tar.md)
     * [解压缩命令集合](基本操作/zip.md)
