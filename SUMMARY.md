@@ -8,6 +8,7 @@
     * [解压缩命令集合](基本操作/zip.md)
     * [uptime 命令](基本操作/uptime.md)
     * [xargs 命令](基本操作/xargs.md)
+    * [tee 命令](基本操作/tee.md)
     * [环境变量](基本操作/set.md)
 * [权限管理](权限管理/README.md)
     * [id 命令](权限管理/id.md)
