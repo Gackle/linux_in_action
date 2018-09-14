@@ -37,6 +37,7 @@
     * [umask 命令](文件系统/umask.md)
 * [文本操作](文本操作/README.md)
     * [cut 命令](文本操作/cut.md)
+    * [split 命令](文本操作/split.md)
     * [paste 命令](文本操作/paste.md)
     * [comm 命令](文本操作/comm.md)
     * [join 命令](文本操作/join.md)
