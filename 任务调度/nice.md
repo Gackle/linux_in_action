@@ -14,10 +14,10 @@ description: nice 命令 —— 在系统上使用不同优先级来运行命令
 
 ``` bash
 # 调整命令优先级为 10，同时以后台形式运行
-$ nice -n 10 ./test4.sh > test4.out & 
-[1] 4973 
+$ nice -n 10 ./test4.sh > test4.out &
+[1] 4973
 $
-# 打印出进程谦让度 NI 
-$ ps -p 4973 -o pid,ppid,ni,cmd   
+# 打印出进程谦让度 NI
+$ ps -p 4973 -o pid,ppid,ni,cmd
 PID  PPID  NI CMD  4973  4721  10 /bin/bash ./test4.sh 
 ```

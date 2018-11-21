@@ -13,8 +13,8 @@ description: jobs 命令 —— 列出指定作业的信息，或分配给shell�
 ## 命令用法
 
 ``` shell
-$ jobs [-lnprs] [jobspec ...]
-$ jobs -x command [args]
+jobs [-lnprs] [jobspec ...]
+jobs -x command [args]
 ```
 
 ## 常用可选参数
@@ -35,6 +35,7 @@ gackle@machine:~$ jobs -l
 ```
 
 其中：
+
 1. 第一列表示任务编号
 2. 第二列表示任务所对应的进程号
 3. 第三列表示任务当前状态

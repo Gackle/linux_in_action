@@ -9,7 +9,7 @@ description: 调整作业前后台运行命令集合
 ## 命令用法
 
 ``` shell
-$ fg [job_spec]
+fg [job_spec]
 ```
 
 其中，`job_spec` 作业号可以通过 `jobs` 命令查找。
@@ -21,7 +21,7 @@ $ fg [job_spec]
 ## 命令用法
 
 ``` shell
-$ bg [job_spec ...]
+bg [job_spec ...]
 ```
 
 其中，`job_spec` 作业号可以通过 `jobs` 命令查找。
