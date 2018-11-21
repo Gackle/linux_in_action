@@ -3,17 +3,18 @@ description: 组权限命令集合
 ---
 
 # groups 命令
+
 `groups` 命令在 stdout 上输出指定用户所在组的组成员，每个用户属于 `/etc/passwd` 中指定的一个组和在 `/etc/group` 中指定的其他组。
 
 ## 命令用法
 
 ``` shell
-$ groups [options]... [username]...
+groups [options]... [username]...
 ```
 
 不给出 `username` 的情况下默认显示全部工作组。
 
-## 常用可选参数 
+## 常用可选参数
 
 | 参数 | 说明 |
 |:---|:---|
@@ -27,12 +28,12 @@ $ groups [options]... [username]...
 ## 命令用法 
 
 ``` shell
-$ groupadd [options]... groupname
+groupadd [options]... groupname
 ```
 
 `groupadd` 新创建的组 `groupname` 一开始是不会有用户的，我们可以使用 `usermod` 添加用户。
 
-## 常用可选参数 
+## 常用可选参数
 
 | 参数 | 选项 |
 |:---|:---|
@@ -51,7 +52,7 @@ $ groupadd [options]... groupname
 ## 命令用法
 
 ``` shell
-$ groupdel [options]... groupname
+groupdel [options]... groupname
 ```
 
 ## 常用可选参数
@@ -60,7 +61,6 @@ $ groupdel [options]... groupname
 |:---|:---|
 | -f, --force | 即使是一个用户的私有工作组也要强制删除 |
 
-
 # groupmod 命令
 
 `groupmod` 命令更改群组识别码或名称。需要更改群组的识别码或名称时，可用 `groupmod` 指令来完成这项工作。
@@ -68,7 +68,7 @@ $ groupdel [options]... groupname
 ## 命令用法
 
 ``` shell
-$ groupmod [options]... groupname
+groupmod [options]... groupname
 ```
 
 ## 常用可选参数
