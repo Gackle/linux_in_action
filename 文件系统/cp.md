@@ -6,13 +6,13 @@ description: cp 命令 —— 复制文件
 
 `cp` 命令负责在文件系统中将文件和目录从一个位置复制到另一个位置。
 
-## 命令用法 ##
+## 命令用法
 
 ``` shell
-$ cp [OPTION] source destination 
+cp [OPTION] source destination
 ```
 
-当 source 和 destination 参数都是文件名时，`cp` 命令将源文件复制成一个新文件，并且以 destination 命名。新文件就像全新的文件一样，有新的修改时间。 
+当 source 和 destination 参数都是文件名时，`cp` 命令将源文件复制成一个新文件，并且以 destination 命名。新文件就像全新的文件一样，有新的修改时间。
 
 ## 常用可选选项
 
