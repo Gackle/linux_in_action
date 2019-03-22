@@ -5,7 +5,7 @@
 ## 命令用法
 
 ``` bash
-$ tee [OPTION]... [FILE]...
+tee [OPTION]... [FILE]...
 ```
 
 `tee` 负责将标准输入 copy 到每一个 FILE 上，同时输出到标准输出 stdout 上。

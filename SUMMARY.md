@@ -27,6 +27,7 @@
   * [du/df 命令](性能分析/dudf.md)
   * [vmstat 命令](性能分析/vmstat.md)
   * [sar 工具](性能分析/sar.md)
+  * [perf 工具](性能分析/perf.md)
 * [文件系统](文件系统/README.md)
   * [ls 命令](文件系统/ls.md)
   * [touch 命令](文件系统/touch.md)
