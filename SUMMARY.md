@@ -32,6 +32,7 @@
   * [ls 命令](文件系统/ls.md)
   * [touch 命令](文件系统/touch.md)
   * [cp 命令](文件系统/cp.md)
+  * [scp 命令](文件系统/scp.md)
   * [mv 命令](文件系统/mv.md)
   * [ln 命令](文件系统/ln.md)
   * [rm 命令](文件系统/rm.md)
