@@ -76,4 +76,3 @@
   * [处理用户输入](Shell编程/处理用户输入.md)
   * [处理脚本输出](Shell编程/处理脚本输出.md)
 * [git 操作](git操作/README.md)
-* [vim 操作](vim操作/README.md)
