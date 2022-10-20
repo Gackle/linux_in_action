@@ -26,6 +26,7 @@
   * [free 命令](性能分析/free.md)
   * [du/df 命令](性能分析/dudf.md)
   * [vmstat 命令](性能分析/vmstat.md)
+  * [strace 命令](性能分析/strace.md)
   * [sar 工具](性能分析/sar.md)
   * [perf 工具](性能分析/perf.md)
 * [文件系统](文件系统/README.md)
