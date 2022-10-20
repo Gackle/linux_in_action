@@ -37,7 +37,7 @@ $  chage [options] LOGIN
 
 | 参数 | 说明 |
 |:---|:---|
-|  -d, --lastday LAST_DAY | 设置上次修改密码到现在的天数 |
+| -d, --lastday LAST_DAY | 设置上次修改密码到现在的天数 |
 | -E, --expiredate EXPIRE_DATE | 设置密码过期的日期 |
 | -I, --inactive INACTIVE | 设置密码过期到锁定账户的天数 |
 | -l, --list | 列出当前的设置，由非特权用户来确定他们的密码或帐号何时过期 |
